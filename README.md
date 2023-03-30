@@ -7,7 +7,7 @@
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-silva-40b39422b/)
 
-![Marceloney GitHub stats](https://github-readme-stats.vercel.app/api?username=Marceloney&show_icons=true&theme=Gradient)
+![Marceloney GitHub stats](https://github-readme-stats.vercel.app/api?username=Marceloney&show_icons=true&theme=Customizing stats card)
 
 ## Estudando...
 
