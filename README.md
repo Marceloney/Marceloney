@@ -7,13 +7,15 @@
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-silva-40b39422b/)
 
-![Marceloney GitHub stats](https://github-readme-stats.vercel.app/api?username=Marceloney&show_icons=true&theme=dracula)
+![Marceloney GitHub stats](https://github-readme-stats.vercel.app/api?username=Marceloney&show_icons=true&theme=Gradient)
 
 ## Estudando...
 
 <dir style="display: incline_block"><br\>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  </div><eng/>
+  </div><br/>
   
-  👀 I’m interested in web programming
+👀 I’m interested in web programming!
+  
+  
   
