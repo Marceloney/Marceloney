@@ -24,7 +24,7 @@ Hi, I'm Marcelo Silva 👨🏻‍💻
 
 
 <dir style="display: incline_block"><br\>
-<img align="center" alt="JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="C#" height="70" width="95" src="https://hotmart.s3.amazonaws.com/product_pictures/31a28599-cf71-42ff-95b2-d8e2ae636bd0/CSharp.png">
   </div><br/>
   
 👀I'm interested in Back-and Programming!
