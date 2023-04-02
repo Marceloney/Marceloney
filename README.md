@@ -1,7 +1,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador Marceloney">
+<img src="https://thumbs.dreamstime.com/b/programa%C3%A7%C3%A3o-do-vetor-codificando-o-conceito-desenvolvimento-da-web-opini%C3%A3o-superior-programador-com-c%C3%B3digo-de-tela-111954167.jpg" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador Marceloney">
 
 
 
