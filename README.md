@@ -11,7 +11,7 @@ Hi, I'm Marcelo Silva 👨🏻‍💻
 
 
 ![Marceloney GitHub stats](https://github-readme-stats.vercel.app/api?username=Marceloney&show_icons=true&theme=)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marceloney&hide_progress=true)](https://github.com/Marceloney/github-readme-stats)
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloneyy/)
