@@ -29,10 +29,6 @@ Hi, I'm Marcelo Silva 👨🏻‍💻
   
 👀I'm interested in Back-and Programming!
   
-
- 
-![Snake animation](https://github.com/Lynikerrr/Lynikerrr/blob/output/github-contribution-grid-snake.svg)
-
 </div>
   
  
